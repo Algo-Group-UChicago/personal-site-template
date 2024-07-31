@@ -559,7 +559,7 @@ h2,.h2 {
 }
 
 .btn-group .btn-group+.btn-group {
-    margin-left: -1px
+    margin-left: -1px;
 }
 
 .nav {
@@ -995,7 +995,7 @@ span.mobile-menu-icon {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 6px 6px;
     -webkit-transition-duration: .4s;
     transition-duration: .4s;
     cursor: pointer
