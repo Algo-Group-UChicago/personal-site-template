@@ -23,4 +23,6 @@ If you're feeling up for it, try adding stuff to the template to make the site m
   - Save, and wait for the build to run.
 - Wait and see if the link works by navigating to the link that the prompt tells you (ideally, if the repo in question is the special `[your-username].github.io` repo, just visit `[username].github.io`)
 
-Contact your Algo Group mentor or one of the board members with any questions!
+## Reaching Out
+- Contact your Algo Group mentor or one of the board members with any questions.
+- Feel free to shared deployed sites with us! We definitely want to see what directions people take with the template.
