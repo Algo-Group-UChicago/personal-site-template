@@ -28,10 +28,19 @@ button:active,button:focus {
 
 .title-wrap h2 {
     font-family: 'Monospace', 'Courier New';
-    font-weight: bold;
     color: #3b3629;
 }
 
 .site-content {
     padding: 25px 0
 }
+
+/* 
+
+.css-class {
+    attribute: value(s)
+} 
+
+... if this doesn't make sense go learn how css works first!
+
+*/
