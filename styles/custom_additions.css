@@ -1,0 +1,37 @@
+/* 
+add additional styling to the template 
+here so that it's refactorable later :) 
+- kathir
+*/
+
+body {
+    background-color: #f4ebd5;
+}
+
+.button {
+    background-color: #dfd2b3; 
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: #8d8164; 
+}
+
+button:active,button:focus {
+    border-color: #222;
+    outline: none
+}
+
+.portfolio-title-section h2 {
+    font-size: 4.5em;
+}
+
+.title-wrap h2 {
+    font-family: 'Monospace', 'Courier New';
+    font-weight: bold;
+    color: #3b3629;
+}
+
+.site-content {
+    padding: 25px 0
+}
