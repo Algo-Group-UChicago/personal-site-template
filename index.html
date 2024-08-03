@@ -1,3 +1,9 @@
+<!-- This is the location from which the webpage will be served. 
+Start here to edit personal info and move onto styling afterwards -->
+
+<!-- To preview the site before pushing, we host on local. I personally
+use: https://www.npmjs.com/package/http-server -->
+
 <!DOCTYPE html>
 <html lang="en-US" class="no-js no-svg"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -5,10 +11,15 @@
     <link rel="stylesheet" type="text/css" href="styles/default_style.css" />
 	<link rel="stylesheet" type="text/css" href="styles/custom_additions.css" />
     <script src="script.js" defer></script>
+	<!-- ADD A CUSTOM IMAGE HERE -->
     <link rel="icon" href="images/algo_group_logo.jpg">
 	<title>Algo Group Template</title>
 </head>
 
+<h3><a style="color:black">
+	This is a template. Comment this line out in index.html to get started!   
+	- Your Algo Group Board
+</a></h3>
 
 <body class="home page-template-default page page-id-6">
 <div id="page" class="site">
@@ -19,7 +30,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3"></div>
-			<div class="col-md-6"><div class="title-wrap"><h2>Algo Group UChicago</h2></div></div>
+			<!-- ADD YOUR NAME HERE -->
+			<div class="col-md-6"><div class="title-wrap"><h2>Algo Group Student</h2></div></div>
 			<div class="col-md-3"></div>
 		</div>
 	</div>
@@ -33,16 +45,18 @@
 <main id="main" class="site-main">
 <article id="post-6" class="post-6 page type-page status-publish hentry">
 
-<!-- BUTTONS ARE BELOW, EDIT LINKS AND IMGS HERE -->
+<!-- BUTTONS ARE BELOW, EDIT LINKS AND SUCH HERE -->
 <div class="entry-content">
 <div class="btn-group">
 
+	<!-- RESUME BUTTON -->
 	<button title="Resume" onmouseover="hover('resume')" onmouseout="gone('resume')"
 	onclick="window.open('./resume.pdf', '_blank')" 
 	class="button button5" style="width:175px;height:140px;">
 		<img id="resume" src="images/resume-colored.png" alt="GitHub" style="width:50px;height:50px;">
 	</button>
 
+	<!-- EMAIL BUTTON -->
 	<button title="Mail" onmouseover="hover('mail')" onmouseout="gone('mail')" 
 	onclick="window.open('mailto:uchicagoalgogroup@gmail.com', '_blank')" 
 	class="button button5" style="width:175px;height:140px;"> 
@@ -52,12 +66,14 @@
 </div>
 <div class="btn-group">
 
+	<!-- LINKEDIN BUTTON -->
 	<button title="LinkedIn" onmouseover="hover('linkedin')" onmouseout="gone('linkedin')" 
 	onclick="window.open('https://www.linkedin.com/company/algo-group-uchicago/', '_blank')" 
 	class="button button5" style="width:175px;height:140px;">
 		<img id="linkedin" src="images/linkedin-colored.png" class="" alt="GitHub" style="width:24px;height:24px;">
 	</button>
 
+	<!-- GITHUB BUTTON -->
 	<button title="GitHub" onmouseover="hover('github')" onmouseout="gone('github')" 
 	onclick="window.open('https://github.com/kathirmeyyappan/algo-group-template', '_blank')" 
 	class="button button5" style="width:175px;height:140px;">
