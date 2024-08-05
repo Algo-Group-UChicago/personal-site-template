@@ -14,6 +14,29 @@ This repo is a template for Algo Group UChicago students to use for making their
 
 If you're feeling up for it, try adding stuff to the template to make the site more personalized. An example of this kind of customization can be found here: https://kathirm.com.
 
+## Repo Structure
+```
+├── README.md
+├── images
+│   ├── README.md
+│   ├── algo_group_logo.jpg
+│   ├── github-colored.png
+│   ├── github-white.png
+│   ├── linkedin-colored.png
+│   ├── linkedin-white.png
+│   ├── mail-colored.png
+│   ├── mail-white.png
+│   ├── resume-colored.png
+│   └── resume-white.png
+├── index.html  // start here to make basic changes
+├── resume.pdf
+├── script.js  // add any new scripts for the page here
+├── structure.txt
+└── styles
+    ├── custom_additions.css  // add new styling (change colors, button appearances, etc.) here
+    └── default_style.css
+```
+
 ## Hosting on GitHub
 - First, it's recommended that you host the code in your GitHub root repo, i.e. you should clone this code into a repository called `[your-username].github.io` so that the hosted page is called `[username].github.io` and not `[username].github.io/[repo-name]`.
 - In order for the code to reflect as a web page, we need to turn on pages for the repo in question.
