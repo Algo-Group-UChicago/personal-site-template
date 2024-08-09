@@ -1,4 +1,4 @@
-# [Algo Group Personal Website Template](https://kathirm.com/algo-group-template/)
+# [Algo Group Personal Website Template](https://algo-group-uchicago.github.io/personal-site-template/)
 
 <div align="center">
   <br>
@@ -6,7 +6,7 @@
       width="200" 
       height="auto">
   <br><br>
-  https://kathirm.com/algo-group-template/
+  https://algo-group-uchicago.github.io/personal-site-template/
   <br><br>
 </div>
 
