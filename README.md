@@ -38,7 +38,7 @@ If you're feeling up for it, try adding stuff to the template to make the site m
 ```
 
 ## Hosting on GitHub
-- First, it's recommended that you host the code in your GitHub root repo, i.e. you should clone this code into a repository called `[your-username].github.io` so that the hosted page is called `[username].github.io` and not `[username].github.io/[repo-name]`.
+- First, it's recommended that you host the code in your GitHub root repo, i.e. you should fork this code into a repository called `[your-username].github.io` so that the hosted page is called `[username].github.io` and not `[username].github.io/[repo-name]`.
 - In order for the code to reflect as a web page, we need to turn on pages for the repo in question.
   - Navigate to `Settings` in your repo.
   - Find `Pages` on the left bar.
